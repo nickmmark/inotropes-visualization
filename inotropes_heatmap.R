@@ -25,8 +25,8 @@ ggplot(data, aes(x = x, y = y)) +
     x = "Inotropic Effect",
     y = "Chronotropic Effect"
   ) +
-  coord_cartesian(xlim = c(min(data$x), max(data$x) + 0.8), 
-                  ylim = c(min(data$y), max(data$y) + 0.0 )) + # Further expand space for labels
+  coord_cartesian(xlim = c(min(data$x), max(data$x) + 0.8),     # expand space for labels to fit
+                  ylim = c(min(data$y), max(data$y) + 0.0 )) + 
   theme_minimal() +
   theme(
     axis.text.x = element_blank(),  # Remove X-axis numbers
