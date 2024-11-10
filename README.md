@@ -1,6 +1,7 @@
 # inotropes-visualization
 graphical display of the hemodynamic effects of different inotrope agents
 
+### Physiology
 Inotropes are medications that augment **cardiac output** (CO)
 - **Chronotropic effect** - affects the rate of cardiac contraction (**heart rate**; HR)
 - **Inotropic effect** - affects the force of cardiac contraction (**stroke volume**; SV)
@@ -19,8 +20,12 @@ MAP = CO x SVR
 
 The combination of increased CO and decreased SVR can either increase or decrease mean arterial pressure (MAP); for this reason the effects of inodilators on blood pressure can be complex.
 
+### Visualizations
 In order to help understand the physiolgical effects of inotropes I made the following visualizations using RStats:
 
 <img src="https://github.com/nickmmark/inotropes-visualization/blob/main/inotrope_heatmap_updated.png" width="1000" />
 
 <img src="https://github.com/nickmmark/inotropes-visualization/blob/main/inotrope_3d_vis.gif" width="1000" />
+
+### References
+- for more see the [Critical Care Time podcast](https://www.criticalcaretime.com/episodes/35-inotropes) I recorded about this!
