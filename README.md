@@ -12,7 +12,8 @@ Additionally, many inotropes also affect systemic arteriolar vascular tone or af
 In order to understand how these effects interact, recall two important physiology concepts:
 ```math
 CO = HR x SV
-
+```
+```math
 MAP = CO x SVR
 ```
 
