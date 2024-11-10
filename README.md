@@ -18,7 +18,8 @@ CO = HR x SV
 MAP = CO x SVR
 ```
 
-The combination of increased CO and decreased SVR can either increase or decrease mean arterial pressure (MAP); for this reason the effects of inodilators on blood pressure can be complex.
+The combination of increased CO and decreased SVR can either increase or decrease mean arterial pressure (MAP); for this reason. even though inotropes increase cardiac output, the effects of inodilators on blood pressure can be complex.
+
 
 ### Visualizations
 In order to help understand the physiolgical effects of inotropes I made the following visualizations using RStats:
