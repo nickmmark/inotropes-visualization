@@ -22,7 +22,7 @@ The combination of increased CO and decreased SVR can either increase or decreas
 
 
 ### Visualizations
-In order to help understand the physiolgical effects of inotropes I made the following visualizations using RStats `plotly` and `[htmlwidgets](https://www.htmlwidgets.org/)` libraries:
+In order to help understand the physiolgical effects of inotropes I made the following visualizations using RStats `plotly` and [htmlwidgets](https://www.htmlwidgets.org/) libraries:
 
 <img src="https://github.com/nickmmark/inotropes-visualization/blob/main/inotrope_heatmap_updated.png" width="1000" />
 
