@@ -1,5 +1,5 @@
 # inotropes-visualization
-graphical display of the hemodynamic effects of different inotrope agents
+graphical display of the hemodynamic effects of different cardiac inotropes
 
 ### Physiology
 Inotropes are medications that augment **cardiac output** (CO)
